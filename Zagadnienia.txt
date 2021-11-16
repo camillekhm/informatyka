@@ -1,0 +1,12 @@
+Zagadnienie: Struktury i pliki
+str271-276
+str285-290
+Min: struktura i zapisać do pliku liczby losowe
+3.46, 3.47
+Przypomnieć sobie algorytmy sortujące
+Będą trzy zadania
+
+Zadanie będzie polegało na 
+odczytaniu danych z pliku do 
+tablicy, posortowaniu tablicy, 
+a następnie zapisaniu jej do pliku.
